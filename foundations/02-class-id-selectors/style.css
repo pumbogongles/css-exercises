@@ -1,0 +1,18 @@
+.oddNumber {
+    background-color: pink;
+    font-family: Verdana, "DejaVu Sans", sans-serif;
+}
+
+#secondElement {
+    color: blue;
+    font-size: 36px;
+}
+
+.styleEX {
+    font-size: 24px;
+    font-weight: bold;
+}
+
+#fourthElement {
+    background-color: lightgreen;
+}
