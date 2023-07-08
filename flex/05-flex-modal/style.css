@@ -16,6 +16,9 @@ body {
 }
 
 .modal {
+  display: flex;
+  padding: 10px;
+  gap: 10px;
   background: white;
   width: 480px;
   border-radius: 10px;
@@ -66,4 +69,20 @@ button.cancel {
   background: white;
   border: 1px solid #ddd;
   color: royalblue;
+}
+
+.header {
+  font-weight: bold;
+  font-size: 120%;
+  margin-bottom: 10px;
+}
+
+.text {
+  display: flex;
+  margin-bottom: 10px;
+}
+
+.left, .container {
+  display: flex;
+  justify-content: space-between;
 }
